@@ -8,3 +8,7 @@ The article highlights the disparity of women to men in software engineering- ma
 Patriarchal gender roles also play a part in the lack of diversity. Women are more likely to be the "caretaker," an unpaid role that greatly adds stress, causing many to drop out of the workforce. There is a stigma that women are "less dedicated" or more likely to "focus on family"- but they don't acknowledge the burden that being a caretaker has on someone. This stigma brings discrimination and hostile work environments, which in turn causes a lack of women in senior roles. 
 
 We would benefit greatly from more diverse teams; they have better business outcomes and more effective leadership. 
+
+<hr>
+
+The article was highly informative, shedding light on the significant gender disparities within the software engineering field. The direct comparisons between statistics from 2021 and 2023, along with the graphical representations, added clarity to the presented data. It's particularly intriguing to consider historical trends, such as the fact that in the 1950s, 30 to 50 percent of computer programmers were women, as it underscores the magnitude of the shift that has occurred over time. - [ele](https://github.com/afknero)
